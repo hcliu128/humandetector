@@ -1,0 +1,47 @@
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.dll
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+c:\users\splab1080\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.dll
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\SPLab1080\Desktop\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.dll
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.CopyComplete
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\Users\super87\Desktop\物件導向\程式範例2022\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.dll
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.CopyComplete
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+D:\Users\super87\Desktop\TEST1\WindowsForm\Gnotify\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
